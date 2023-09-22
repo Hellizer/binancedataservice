@@ -1,0 +1,5 @@
+{
+"service_log_level": 10,
+"logstash_addr": "",
+"grpc_port": ":50051"
+}
